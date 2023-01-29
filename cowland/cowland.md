@@ -8,3 +8,6 @@ participant the game and may be able to change the simulation process.
 
 ## The interactions and relationships between environment and cows&player
 ![diagram](images/cowland_diagram-01.jpg)
+
+## Game Demo
+<iframe height="167" frameborder="0" src="https://itch.io/embed/1894569" width="552"><a href="https://billbillbilly.itch.io/sillysimulation1cowland">SillySimulation 1 - Cowland by billbillbilly</a></iframe>
