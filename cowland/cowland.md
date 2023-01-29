@@ -1,5 +1,5 @@
 # SillySimulation 1 - Cowland
-<img src="images/Screenshot.png" width="200">
+<img src="images/Screenshot.png" width="500">
 
 The environment has been extremely simplified and accelerated. 
 The cow can propagate and eat grass very fast until it dies. 
