@@ -12,7 +12,8 @@ participant the game and may be able to change the simulation process.
 ![diagram](images/cowland_diagram-01.jpg)
 
 ## installation
-- download the project package: `wget -O cowland_package.unitypackage https://github.com/billbillbilly/SillySimulation/blob/main/cowland/package/cowland_package.unitypackage?raw=true`
+- download the project package: 
+  - `wget -O cowland_package.unitypackage https://github.com/billbillbilly/SillySimulation/blob/main/cowland/package/cowland_package.unitypackage?raw=true`
 
 ## Game Demo
 https://billbillbilly.itch.io/sillysimulation1cowland
