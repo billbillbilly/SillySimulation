@@ -7,4 +7,4 @@ as the population increases. Players can choose an avatar in
 participant the game and may be able to change the simulation process. 
 
 ## The interactions and relationships between environment and cows&player
-
+![diagram](images/cowland_diagram-01.jpg)
