@@ -1,5 +1,5 @@
 # SillySimulation 1 - Cowland
-![image](images/Screenshot.png)
+![image](images/Screenshot.png | width=200)
 The environment has been extremely simplified and accelerated. 
 The cow can propagate and eat grass very fast until it dies. 
 Even if grass can recover (super slowly), the grassland will 
