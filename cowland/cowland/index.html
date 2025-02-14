@@ -55,6 +55,15 @@
         updateBannerVisibility();
       }
 
+      // mute audio
+      function muteUnityAudio() {
+          document.querySelectorAll("audio").forEach(audio => {
+              audio.muted = true;
+          });
+      }
+      // Run mute function every second to catch new elements
+      setInterval(muteUnityAudio, 1000);
+
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/cowland.loader.js";
       var config = {
