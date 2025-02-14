@@ -17,11 +17,11 @@
         </div>
       </div>
       <div id="unity-warning"> </div>
-      <div id="unity-footer">
+<!--       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
         <div id="unity-build-title">project</div>
-      </div>
+      </div> -->
     </div>
     <script>
       var container = document.querySelector("#unity-container");
@@ -109,6 +109,7 @@
           fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
+          document.querySelectorAll("audio").forEach(audio => audio.muted = true);
         }).catch((message) => {
           alert(message);
         });
